@@ -2,7 +2,7 @@
   "github_id": 116755543,
   "username": "ajayy51",
   "login": "ajayy51",
-  "avatar_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/profile.svg",
+  "avatar_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/profile.jpg",
   "full_name": "AJAY RAY SAMALA",
   "headline": "Building the future, one line at a time.",
   "bio": "Full-Stack Developer passionate about clean code and great UX.",
@@ -20,15 +20,15 @@
   "contact_url": "",
   "project_links": {},
   "about": [
-    "\n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      ",
-    "\n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      "
+    "\n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      ",
+    "\n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      "
   ],
   "projects": [
     {
       "id": "project-1",
-      "number": "\n          \n          01\n        \n        ",
-      "title": "\n        StackFolio\n      ",
-      "desc": "\n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      ",
+      "number": "\n          \n          \n          01\n        \n        \n        ",
+      "title": "\n        \n        StackFolio\n      \n      ",
+      "desc": "\n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      ",
       "status": "PROJECT",
       "image_url": "",
       "skills": [
@@ -40,9 +40,9 @@
     },
     {
       "id": "project-2",
-      "number": "\n          \n          02\n        \n        ",
-      "title": "\n        Pyezml\n      ",
-      "desc": "\n        A Python Library for AutoML tasks for tabular data\n      ",
+      "number": "\n          \n          \n          02\n        \n        \n        ",
+      "title": "\n        \n        Pyezml\n      \n      ",
+      "desc": "\n        \n        A Python Library for AutoML tasks for tabular data\n      \n      ",
       "status": "PROJECT",
       "image_url": "",
       "skills": [
@@ -51,9 +51,9 @@
     },
     {
       "id": "proj-1772112676779",
-      "number": "06",
-      "title": "Project Title",
-      "desc": "Project description here",
+      "number": "\n          06\n        ",
+      "title": "\n        Project Title\n      ",
+      "desc": "\n        Project description here\n      ",
       "status": "NEW",
       "image_url": "",
       "skills": [
@@ -64,19 +64,19 @@
   ],
   "experience": [
     {
-      "role": "\n          AI App Developer\n        ",
-      "company": "\n        Teleperformance\n      ",
-      "duration": "\n          \n          2025 — Present\n        \n        ",
-      "location": "\n        Onsite\n      ",
-      "points": "\n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      "
+      "role": "\n          \n          AI App Developer\n        \n        ",
+      "company": "\n        \n        Teleperformance\n      \n      ",
+      "duration": "\n          \n          \n          2025 — Present\n        \n        \n        ",
+      "location": "\n        \n        Onsite\n      \n      ",
+      "points": "\n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          B.Tech in Computer Science\n        \n        ",
-      "school": "\n        Malla Reddy University\n      ",
-      "duration": "\n          \n          2021 — 2025\n        \n        ",
-      "extra": "\n        \n        CGPA: 9.11\n      "
+      "degree": "\n          \n          \n          B.Tech in Computer Science\n        \n        \n        ",
+      "school": "\n        \n        Malla Reddy University\n      \n      ",
+      "duration": "\n          \n          \n          2021 — 2025\n        \n        \n        ",
+      "extra": "\n        \n        \n        CGPA: 9.11\n      \n      "
     }
   ],
   "skills": {
@@ -118,20 +118,20 @@
   },
   "stats": [
     {
-      "value": "\n        5+\n      \n      ",
-      "label": "\n        \n        Projects\n      \n      "
+      "value": "\n        \n        5+\n      \n      \n      ",
+      "label": "\n        \n        \n        Projects\n      \n      \n      "
     },
     {
-      "value": "\n        -\n      ",
-      "label": "\n        \n        GitHub Stars\n      \n      "
+      "value": "\n        \n        -\n      \n      ",
+      "label": "\n        \n        \n        GitHub Stars\n      \n      \n      "
     },
     {
-      "value": "\n        1\n      ",
-      "label": "\n        \n        Years Exp\n      \n      "
+      "value": "\n        \n        1\n      \n      ",
+      "label": "\n        \n        \n        Years Exp\n      \n      \n      "
     },
     {
-      "value": "\n        1K\n      ",
-      "label": "\n        \n        Users\n      \n      "
+      "value": "\n        \n        1K\n      \n      ",
+      "label": "\n        \n        \n        Users\n      \n      \n      "
     }
   ],
   "hidden_sections": [],
