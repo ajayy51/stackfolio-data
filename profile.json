@@ -5,7 +5,7 @@
   "avatar_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/profile.jpg",
   "full_name": "AJAY RAY SAMALA",
   "headline": "Building the future, one line at a time.",
-  "bio": "Full-Stack Developer passionate about clean code and great UX.",
+  "bio": "AI Developer, Vibe Coding and Stuff",
   "status": "Status: Open to Opportunities",
   "brand": "STACKFOLIO",
   "resume_label": "Download Resume",
@@ -20,15 +20,15 @@
   "contact_url": "",
   "project_links": {},
   "about": [
-    "\n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      ",
-    "\n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      "
+    "\n        \n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      \n      ",
+    "\n        \n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      \n      "
   ],
   "projects": [
     {
       "id": "project-1",
-      "number": "\n          \n          \n          01\n        \n        \n        ",
-      "title": "\n        \n        StackFolio\n      \n      ",
-      "desc": "\n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      ",
+      "number": "\n          \n          \n          \n          01\n        \n        \n        \n        ",
+      "title": "\n        \n        \n        StackFolio\n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      ",
       "status": "PROJECT",
       "image_url": "",
       "skills": [
@@ -40,43 +40,31 @@
     },
     {
       "id": "project-2",
-      "number": "\n          \n          \n          02\n        \n        \n        ",
-      "title": "\n        \n        Pyezml\n      \n      ",
-      "desc": "\n        \n        A Python Library for AutoML tasks for tabular data\n      \n      ",
+      "number": "\n          \n          \n          \n          02\n        \n        \n        \n        ",
+      "title": "\n        \n        \n        Pyezml\n      \n      \n      ",
+      "desc": "\n        \n        \n        A Python Library for AutoML tasks for tabular data\n      \n      \n      ",
       "status": "PROJECT",
       "image_url": "",
       "skills": [
         "Python"
       ]
-    },
-    {
-      "id": "proj-1772112676779",
-      "number": "\n          06\n        ",
-      "title": "\n        Project Title\n      ",
-      "desc": "\n        Project description here\n      ",
-      "status": "NEW",
-      "image_url": "",
-      "skills": [
-        "Tech 1",
-        "Tech 2"
-      ]
     }
   ],
   "experience": [
     {
-      "role": "\n          \n          AI App Developer\n        \n        ",
-      "company": "\n        \n        Teleperformance\n      \n      ",
-      "duration": "\n          \n          \n          2025 — Present\n        \n        \n        ",
-      "location": "\n        \n        Onsite\n      \n      ",
-      "points": "\n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      "
+      "role": "\n          \n          \n          AI App Developer\n        \n        \n        ",
+      "company": "\n        \n        \n        Teleperformance\n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          2025 — Present\n        \n        \n        \n        ",
+      "location": "\n        \n        \n        Onsite\n      \n      \n      ",
+      "points": "\n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          \n          B.Tech in Computer Science\n        \n        \n        ",
-      "school": "\n        \n        Malla Reddy University\n      \n      ",
-      "duration": "\n          \n          \n          2021 — 2025\n        \n        \n        ",
-      "extra": "\n        \n        \n        CGPA: 9.11\n      \n      "
+      "degree": "\n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        ",
+      "school": "\n        \n        \n        Malla Reddy University\n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        ",
+      "extra": "\n        \n        \n        \n        CGPA: 9.11\n      \n      \n      "
     }
   ],
   "skills": {
@@ -118,20 +106,20 @@
   },
   "stats": [
     {
-      "value": "\n        \n        5+\n      \n      \n      ",
-      "label": "\n        \n        \n        Projects\n      \n      \n      "
+      "value": "\n        \n        \n        5+\n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        Projects\n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        -\n      \n      ",
-      "label": "\n        \n        \n        GitHub Stars\n      \n      \n      "
+      "value": "\n        \n        \n        -\n      \n      \n      ",
+      "label": "\n        \n        \n        \n        GitHub Stars\n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        1\n      \n      ",
-      "label": "\n        \n        \n        Years Exp\n      \n      \n      "
+      "value": "\n        \n        \n        1\n      \n      \n      ",
+      "label": "\n        \n        \n        \n        Years Exp\n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        1K\n      \n      ",
-      "label": "\n        \n        \n        Users\n      \n      \n      "
+      "value": "\n        \n        \n        1K\n      \n      \n      ",
+      "label": "\n        \n        \n        \n        Users\n      \n      \n      \n      "
     }
   ],
   "hidden_sections": [],
