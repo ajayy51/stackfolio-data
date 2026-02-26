@@ -3,7 +3,7 @@
   "username": "ajayy51",
   "login": "ajayy51",
   "avatar_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/profile.svg",
-  "full_name": "Your Name",
+  "full_name": "AJAY RAY SAMALA",
   "headline": "Building the future, one line at a time.",
   "bio": "Full-Stack Developer passionate about clean code and great UX.",
   "status": "Status: Open to Opportunities",
@@ -16,66 +16,77 @@
     "twitter": "",
     "email": ""
   },
-  "resume_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/resume.txt",
+  "resume_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/resume.pdf",
   "contact_url": "",
   "project_links": {},
   "about": [
-    "I am a passionate developer who loves building fast, scalable, and intelligent systems.",
-    "I enjoy shipping products end-to-end, from backend architecture to polished UI."
+    "\n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      ",
+    "\n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      "
   ],
   "projects": [
     {
-      "number": "01",
-      "title": "Stackfolio Starter",
-      "desc": "A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.",
-      "status": "LIVE",
+      "number": "\n          01\n        ",
+      "title": "StackFolio",
+      "desc": "\n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      ",
+      "status": "",
       "skills": [
-        "JavaScript",
+        "Javascript",
         "HTML",
         "CSS",
         "GitHub API"
       ]
     },
     {
-      "number": "02",
-      "title": "TaskFlow API",
-      "desc": "A REST API for task planning with auth, role-based access, and analytics dashboards.",
-      "status": "BETA",
+      "number": "\n          02\n        ",
+      "title": "Pyezml",
+      "desc": "A Python Library for AutoML tasks for tabular data",
+      "status": "",
       "skills": [
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "JWT"
+        "Python"
+      ]
+    },
+    {
+      "number": "03",
+      "title": "AI-Powered Speech Analysis & Automated Incident Management",
+      "desc": "Developed an AI-driven speech intelligence pipeline that automatically identifies customer issues from audio streams and generates ServiceNow tickets to streamline enterprise incident management.",
+      "status": "LIVE",
+      "skills": [
+        "Python",
+        "Hugging Face",
+        "ServiceNow"
       ]
     }
   ],
   "experience": [
     {
-      "role": "Full Stack Developer Intern",
-      "company": "Acme Digital Labs",
-      "duration": "2025 — Present",
-      "location": "Remote",
-      "points": "<li>Built reusable UI components and reduced page load time by 32%.</li><li>Implemented REST endpoints and improved API response consistency.</li>"
+      "role": "AI App Developer",
+      "company": "Teleperformance",
+      "duration": "\n          2025 — Present\n        ",
+      "location": "Onsite",
+      "points": "\n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      "
     }
   ],
   "education": [
     {
-      "degree": "B.Tech in Computer Science",
-      "school": "Sample University",
-      "duration": "2021 — 2025",
-      "extra": "CGPA: 8.9"
+      "degree": "\n          B.Tech in Computer Science\n        ",
+      "school": "Malla Reddy University",
+      "duration": "\n          2021 — 2025\n        ",
+      "extra": "\n        CGPA: 9.11"
     }
   ],
   "skills": {
     "languages": [
       "Python",
-      "TypeScript",
-      "Go"
+      "Javascript",
+      "Go",
+      "c",
+      "java"
     ],
     "frameworks": [
       "React",
       "Next.js",
-      "FastAPI"
+      "FastAPI",
+      "Flask"
     ],
     "databases": [
       "PostgreSQL",
@@ -85,25 +96,37 @@
     "devops": [
       "Docker",
       "AWS",
-      "GitHub Actions"
+      "GitHub Actions",
+      "Azure",
+      "Git",
+      "Github"
+    ],
+    "new": [
+      "MAchine Learning",
+      "Deep Learning",
+      "RAG",
+      "OPENAI",
+      "NLP",
+      "Pytorch",
+      "Transformers"
     ]
   },
   "stats": [
     {
-      "value": "15+",
-      "label": "Projects"
+      "value": "5+\n      ",
+      "label": "\n        Projects\n      "
     },
     {
-      "value": "2K+",
-      "label": "GitHub Stars"
+      "value": "-",
+      "label": "\n        GitHub Stars\n      "
     },
     {
-      "value": "2+",
-      "label": "Years Exp"
+      "value": "1",
+      "label": "\n        Years Exp\n      "
     },
     {
-      "value": "10K+",
-      "label": "Users"
+      "value": "1K",
+      "label": "\n        Users\n      "
     }
   ],
   "hidden_sections": [],
