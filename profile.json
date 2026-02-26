@@ -20,15 +20,17 @@
   "contact_url": "",
   "project_links": {},
   "about": [
-    "\n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      ",
-    "\n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      "
+    "\n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      ",
+    "\n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      "
   ],
   "projects": [
     {
-      "number": "\n          01\n        ",
-      "title": "StackFolio",
-      "desc": "\n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      ",
-      "status": "",
+      "id": "project-1",
+      "number": "\n          \n          01\n        \n        ",
+      "title": "\n        StackFolio\n      ",
+      "desc": "\n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      ",
+      "status": "PROJECT",
+      "image_url": "",
       "skills": [
         "Javascript",
         "HTML",
@@ -37,41 +39,44 @@
       ]
     },
     {
-      "number": "\n          02\n        ",
-      "title": "Pyezml",
-      "desc": "A Python Library for AutoML tasks for tabular data",
-      "status": "",
+      "id": "project-2",
+      "number": "\n          \n          02\n        \n        ",
+      "title": "\n        Pyezml\n      ",
+      "desc": "\n        A Python Library for AutoML tasks for tabular data\n      ",
+      "status": "PROJECT",
+      "image_url": "",
       "skills": [
         "Python"
       ]
     },
     {
-      "number": "03",
-      "title": "AI-Powered Speech Analysis & Automated Incident Management",
-      "desc": "Developed an AI-driven speech intelligence pipeline that automatically identifies customer issues from audio streams and generates ServiceNow tickets to streamline enterprise incident management.",
-      "status": "LIVE",
+      "id": "proj-1772112676779",
+      "number": "06",
+      "title": "Project Title",
+      "desc": "Project description here",
+      "status": "NEW",
+      "image_url": "",
       "skills": [
-        "Python",
-        "Hugging Face",
-        "ServiceNow"
+        "Tech 1",
+        "Tech 2"
       ]
     }
   ],
   "experience": [
     {
-      "role": "AI App Developer",
-      "company": "Teleperformance",
-      "duration": "\n          2025 — Present\n        ",
-      "location": "Onsite",
-      "points": "\n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      "
+      "role": "\n          AI App Developer\n        ",
+      "company": "\n        Teleperformance\n      ",
+      "duration": "\n          \n          2025 — Present\n        \n        ",
+      "location": "\n        Onsite\n      ",
+      "points": "\n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          B.Tech in Computer Science\n        ",
-      "school": "Malla Reddy University",
-      "duration": "\n          2021 — 2025\n        ",
-      "extra": "\n        CGPA: 9.11"
+      "degree": "\n          \n          B.Tech in Computer Science\n        \n        ",
+      "school": "\n        Malla Reddy University\n      ",
+      "duration": "\n          \n          2021 — 2025\n        \n        ",
+      "extra": "\n        \n        CGPA: 9.11\n      "
     }
   ],
   "skills": {
@@ -113,20 +118,20 @@
   },
   "stats": [
     {
-      "value": "5+\n      ",
-      "label": "\n        Projects\n      "
+      "value": "\n        5+\n      \n      ",
+      "label": "\n        \n        Projects\n      \n      "
     },
     {
-      "value": "-",
-      "label": "\n        GitHub Stars\n      "
+      "value": "\n        -\n      ",
+      "label": "\n        \n        GitHub Stars\n      \n      "
     },
     {
-      "value": "1",
-      "label": "\n        Years Exp\n      "
+      "value": "\n        1\n      ",
+      "label": "\n        \n        Years Exp\n      \n      "
     },
     {
-      "value": "1K",
-      "label": "\n        Users\n      "
+      "value": "\n        1K\n      ",
+      "label": "\n        \n        Users\n      \n      "
     }
   ],
   "hidden_sections": [],
