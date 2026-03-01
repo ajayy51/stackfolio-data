@@ -29,15 +29,15 @@
     }
   },
   "about": [
-    "\n        \n        \n        \n        \n        \n        \n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-    "\n        \n        \n        \n        \n        \n        \n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      \n      \n      \n      \n      \n      \n      "
+    "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        I am a passionate developer who loves building fast, scalable, and intelligent systems.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+    "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        I enjoy shipping products end-to-end, from backend architecture to polished UI.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
   ],
   "projects": [
     {
       "id": "project-1",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        \n        \n        \n        \n        StackFolio\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "title": "\n        \n        \n        \n        \n        \n        \n        \n        \n        StackFolio\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
       "status": "PROJECT",
       "image_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/project-project-1.png",
       "skills": [
@@ -49,11 +49,11 @@
     },
     {
       "id": "project-2",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        \n        \n        \n        \n        Pyezml\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        A Python Library for AutoML tasks for tabular data\n      \n      \n      \n      \n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "title": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Pyezml\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        A Python Library for AutoML tasks for tabular data\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
       "status": "PROJECT",
-      "image_url": "",
+      "image_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/project-project-2.png",
       "skills": [
         "Python"
       ]
@@ -61,19 +61,19 @@
   ],
   "experience": [
     {
-      "role": "\n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        ",
-      "company": "\n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "location": "\n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "role": "\n          \n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "company": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "location": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "school": "\n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      "
+      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "school": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "skills": {
@@ -115,20 +115,20 @@
   },
   "stats": [
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        -\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        GitHub Stars\n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        -\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        GitHub Stars\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        1\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        1\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        1K\n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        Users\n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        1K\n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Users\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "hidden_sections": [],
