@@ -29,14 +29,14 @@
     }
   },
   "about": [
-    "Software developer passionate about building useful and scalable technology."
+    "\n        Software developer passionate about building useful and scalable technology.\n      "
   ],
   "projects": [
     {
       "id": "project-1",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        StackFolio\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "title": "Stackfolio — GitHub-Native Developer Portfolio",
+      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
       "status": "Live",
       "ribbon_status": "Project",
       "badge_status": "Live",
@@ -50,9 +50,9 @@
     },
     {
       "id": "project-2",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Pyezml\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A Python Library for AutoML tasks for tabular data\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "title": "pyezml — Zero-Config Machine Learning",
+      "desc": "An easy-to-use machine learning library that detects task type and builds optimized models automatically.",
       "status": "Live",
       "ribbon_status": "Project",
       "badge_status": "Live",
@@ -60,23 +60,40 @@
       "skills": [
         "Python"
       ]
+    },
+    {
+      "id": "proj-1772371349209",
+      "number": "Localmind",
+      "title": "LocalMind — Private AI Memory Engine",
+      "desc": "A privacy-first local RAG system that lets users chat with their personal documents completely offline",
+      "status": "On-Going",
+      "ribbon_status": "Project",
+      "badge_status": "On-Going",
+      "image_url": "",
+      "skills": [
+        "Python",
+        "Vector DB",
+        "Ollama",
+        "Sentence Transformers",
+        "RAG"
+      ]
     }
   ],
   "experience": [
     {
-      "role": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "company": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "location": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "role": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "company": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "location": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "school": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "school": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "skills": {
@@ -118,12 +135,12 @@
   },
   "stats": [
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     },
     {
-      "value": "0.8",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        0.8\n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "hidden_sections": [],
