@@ -4,7 +4,7 @@
   "login": "ajayy51",
   "avatar_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/profile.jpg",
   "full_name": "AJAY RAY SAMALA",
-  "headline": "Building the future, one line at a time.",
+  "headline": "Innovation begins, with a single line.",
   "bio": "AI Developer, Vibe Coding and Stuff",
   "status": "Status: Open to Opportunities",
   "brand": "STACKFOLIO",
@@ -29,18 +29,18 @@
     }
   },
   "about": [
-    "\n        \n        \n        Software developer passionate about building useful and scalable technology.\n      \n      \n      "
+    "CS graduate in AI & ML turning data and ideas into deployable AI solutions"
   ],
   "projects": [
     {
       "id": "project-1",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          01\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        Stackfolio — GitHub-Native Developer Portfolio\n      \n      ",
-      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "number": "StackFolio",
+      "title": "\n        \n        \n        Stackfolio — GitHub-Native Developer Portfolio\n      \n      \n      ",
+      "desc": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        A customizable developer portfolio with inline editing, GitHub-backed storage, and responsive design.\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
       "status": "Live",
       "ribbon_status": "Project",
       "badge_status": "Live",
-      "image_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/project-project-1.png",
+      "image_url": "",
       "skills": [
         "Javascript",
         "HTML",
@@ -50,22 +50,22 @@
     },
     {
       "id": "project-2",
-      "number": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          02\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "title": "\n        \n        pyezml — Zero-Config Machine Learning\n      \n      ",
-      "desc": "\n        \n        An easy-to-use machine learning library that detects task type and builds optimized models automatically.\n      \n      ",
+      "number": "pyezml",
+      "title": "\n        \n        \n        pyezml — Zero-Config Machine Learning\n      \n      \n      ",
+      "desc": "\n        \n        \n        An easy-to-use machine learning library that detects task type and builds optimized models automatically.\n      \n      \n      ",
       "status": "Live",
       "ribbon_status": "Project",
       "badge_status": "Live",
-      "image_url": "https://raw.githubusercontent.com/ajayy51/stackfolio-data/main/assets/project-project-2.png",
+      "image_url": "",
       "skills": [
         "Python"
       ]
     },
     {
       "id": "proj-1772371349209",
-      "number": "\n          \n          Localmind\n        \n        ",
-      "title": "\n        \n        LocalMind — Private AI Memory Engine\n      \n      ",
-      "desc": "\n        \n        A privacy-first local RAG system that lets users chat with their personal documents completely offline\n      \n      ",
+      "number": "\n          \n          \n          Localmind\n        \n        \n        ",
+      "title": "\n        \n        \n        LocalMind — Private AI Memory Engine\n      \n      \n      ",
+      "desc": "\n        \n        \n        A privacy-first local RAG system that lets users chat with their personal documents completely offline\n      \n      \n      ",
       "status": "On-Going",
       "ribbon_status": "Project",
       "badge_status": "On-Going",
@@ -81,19 +81,19 @@
   ],
   "experience": [
     {
-      "role": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "company": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "location": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "role": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          AI App Developer\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "company": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Teleperformance\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2025 — Present\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "location": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Onsite\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "points": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Engineered machine learning models for real-time speech analysis to automatically detect and classify\ncustomer issues. Built and integrated an AI-driven speech processing pipeline with ServiceNow, automating ticket\ncreation and reducing manual intervention. Designed an end-to-end AI incident management workflow, improving operational efficiency and\nresponse time. Collaborated cross-functionally to deploy scalable AI solutions in a production environment. \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "education": [
     {
-      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "school": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
-      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "degree": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          B.Tech in Computer Science\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "school": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Malla Reddy University\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "duration": "\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          2021 — 2025\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        ",
+      "extra": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        CGPA: 9.11\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "skills": {
@@ -135,12 +135,12 @@
   },
   "stats": [
     {
-      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        5+\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Projects\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     },
     {
-      "value": "\n        \n        \n        0.8\n      \n      \n      ",
-      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+      "value": "\n        \n        \n        \n        0.8\n      \n      \n      \n      ",
+      "label": "\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        \n        Years Exp\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
     }
   ],
   "hidden_sections": [],
